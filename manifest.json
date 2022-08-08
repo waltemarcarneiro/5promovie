@@ -1,7 +1,7 @@
 {
-"name": "Only Manifest",
+"name": "5ProMovie",
 "short_name: "5ProMovie",
-"description": "dummy application to demo manifest without SW",
+"description": "Filmes | Download",
 "start_url": "https://5promovie.blogspot.com/index.html",
 "scope: "https://5promovie.blogspot.com",
 "background_color": "#eeeeee",
