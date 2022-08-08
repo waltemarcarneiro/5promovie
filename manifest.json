@@ -1,10 +1,23 @@
 {
-  "name": "5ProMovie",
-  "short_name": "5ProMovie",
-  "theme_color": "#ff4444",
-  "background_color": "#eeeeee",
-  "display": "standalone",
-  "orientation": "portrait",
-  "scope": "https://5promovie.blogspot.com/",
-  "start_url": "https://5promovie.blogspot.com/index.html"
+"name": "Only Manifest",
+"short_name: "5ProMovie",
+"description": "dummy application to demo manifest without SW",
+"start_url": "https://5promovie.blogspot.com/index.html",
+"scope: "https://5promovie.blogspot.com",
+"background_color": "#eeeeee",
+"theme_color": "#ff4444",
+"display": "standalone",
+"orientation": "portrait-primary",
+"dir: "ltr",
+"lang": "pt-BR",
+"icons": [
+  {
+    "src": "https://drive.google.com/uc?id=1ZN-owbQS8HQaSMeXKj7cVvubU3sg36Gy",
+    "type": "image/png",
+    "sizes": "512x512"
+  },
+  .
+  .    -> Other similar image objects
+  .
+ ]
 }
