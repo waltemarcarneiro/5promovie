@@ -1,0 +1,10 @@
+{
+  "name": "5ProMovie",
+  "short_name": "5ProMovie",
+  "theme_color": "#ff4444",
+  "background_color": "#eeeeee",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "https://5promovie.blogspot.com/",
+  "start_url": "https://5promovie.blogspot.com/index.html"
+}
