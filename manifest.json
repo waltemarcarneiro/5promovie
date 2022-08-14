@@ -15,7 +15,8 @@
     {
       "src": "https://docs.google.com/uc?id=1uCSRxnYhvxhJBEpDgan_nOBFn6mCKB89",
       "type": "image/png",
-      "sizes": "700x700"      
+      "sizes": "700x700"
+      "purpose": "any maskable"
     },
     {
       "src": "https://5promovie.blogspot.com/favicon.ico",
@@ -24,7 +25,8 @@
     {
       "src": "https://docs.google.com/uc?id=1CRO5_JuZl4g9C20CvCw1PaAhxZ972HIC",
       "type": "image/png",
-      "sizes": "1200x630"      
+      "sizes": "1200x630"
+      "purpose": "any maskable"
     },
     {
       "src": "/favicon.ico",
