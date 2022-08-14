@@ -3,7 +3,7 @@
     "background_color": "#eeeeee",
     "display": "standalone",
     "scope": "https://5promovie.blogspot.com/",
-    "start_url": "https://5promovie.blogspot.com/p/doacao.html",
+    "start_url": "https://5promovie.blogspot.com/index.html",
     "name": "5ProMovie",
     "short_name": "5ProMovie",
     "description": "Filmes | Download",
