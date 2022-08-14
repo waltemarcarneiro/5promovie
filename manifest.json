@@ -8,6 +8,7 @@
   "scope": "/",
   "short_name": "5ProMovie",
   "start_url": "/?utm_source=homescreen",
+  "lang": "pt-BR",
   "theme_color": "#ff2240",
   "categories": [],
   "screenshots": [],
