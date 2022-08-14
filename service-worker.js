@@ -1,5 +1,5 @@
 const CACHE_NAME = 'offline';
-const OFFLINE_URL = 'offline.html';
+const OFFLINE_URL = 'https://5promovie.blogspot.com/p/offline.html?m=1';
 
 self.addEventListener('install', function(event) {
   console.log('[ServiceWorker] Install');
