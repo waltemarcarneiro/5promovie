@@ -8,7 +8,6 @@
   "scope": "/",
   "short_name": "5ProMovie",
   "start_url": "/?utm_source=homescreen",
-  "lang": "pt",
   "theme_color": "#ff2240",
   "categories": [],
   "screenshots": [],
@@ -16,11 +15,11 @@
     {
       "src": "https://docs.google.com/uc?id=1uCSRxnYhvxhJBEpDgan_nOBFn6mCKB89",
       "type": "image/png",
-      "sizes": "700x700"      
+      "sizes": "700x700"
     },
     {
       "src": "https://5promovie.blogspot.com/favicon.ico",
-      "type": "image/x-icon"      
+      "type": "image/x-icon"
     },
     {
       "src": "https://docs.google.com/uc?id=1CRO5_JuZl4g9C20CvCw1PaAhxZ972HIC",
