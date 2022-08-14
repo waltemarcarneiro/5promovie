@@ -12,21 +12,25 @@
             "src": "https://drive.google.com/uc?id=1mPgB9N5A00yq9J-gGX_UaNWl0wdwdeFx",
             "sizes": "192x192",
             "type": "image/png"
+            "purpose": "any maskable"
         },
         {
             "src": "https://drive.google.com/uc?id=1rfSQODMVYjUO6bl3WtLLZ86J78An5217",
             "sizes": "256x256",
             "type": "image/png"
+            "purpose": "any maskable"
         },
         {
             "src": "https://drive.google.com/uc?id=1yuxdUR66mYzIjNhCrDydRe86_7qt-EJA",
             "sizes": "384x384",
             "type": "image/png"
+            "purpose": "any maskable"
         },
         {
             "src": "https://drive.google.com/uc?id=1-OZxypDUzD_f1ge2a2XK60YEUQwzgFhH",
             "sizes": "512x512",
             "type": "image/png"
+            "purpose": "any maskable"
         }
     ]
 }
