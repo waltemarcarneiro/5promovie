@@ -1,36 +1,35 @@
 {
-    "theme_color": "#ff4444"
-    "background_color": "#eeeeee",
-    "display": "standalone",
-    "scope": "/",
-    "start_url": ".",
-    "name": "5ProMovie Download",
-    "short_name": "5ProMovie",
-    "description": "Filmes | Downloads",
-    "icons": [
-        {
-            "src": "https://drive.google.com/uc?id=1mPgB9N5A00yq9J-gGX_UaNWl0wdwdeFx",
-            "sizes": "192x192",
-            "type": "image/png"
-            "purpose": "any maskable"
-        },
-        {
-            "src": "https://drive.google.com/uc?id=1rfSQODMVYjUO6bl3WtLLZ86J78An5217",
-            "sizes": "256x256",
-            "type": "image/png"
-            "purpose": "any maskable"
-        },
-        {
-            "src": "https://drive.google.com/uc?id=1yuxdUR66mYzIjNhCrDydRe86_7qt-EJA",
-            "sizes": "384x384",
-            "type": "image/png"
-            "purpose": "any maskable"
-        },
-        {
-            "src": "https://drive.google.com/uc?id=1-OZxypDUzD_f1ge2a2XK60YEUQwzgFhH",
-            "sizes": "512x512",
-            "type": "image/png"
-            "purpose": "any maskable"
-        }
-    ]
+  "background_color": "#ffffff",
+  "description": "Filmes | Downloads",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "5ProMovie",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "5ProMovie",
+  "start_url": "/",
+  "theme_color": "#ff2240",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://docs.google.com/uc?id=1uCSRxnYhvxhJBEpDgan_nOBFn6mCKB89",
+      "type": "image/png",
+      "sizes": "700x700"
+    },
+    {
+      "src": "https://5promovie.blogspot.com/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://docs.google.com/uc?id=1CRO5_JuZl4g9C20CvCw1PaAhxZ972HIC",
+      "type": "image/png",
+      "sizes": "1200x630"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
 }
