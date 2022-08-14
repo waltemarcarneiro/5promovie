@@ -2,11 +2,12 @@
     "theme_color": "#ff4444",
     "background_color": "#eeeeee",
     "display": "standalone",
+    "orientation": "portrait-primary",
     "scope": "/",
-    "start_url": "https://5promovie.blogspot.com/?m=1",
-    "name": "5ProMovie",
+    "start_url": ".",
+    "name": "5ProMovie Download",
     "short_name": "5ProMovie",
-    "description": "Filmes | Download",
+    "description": "Filmes | Downloads",
     "icons": [
         {
             "src": "https://drive.google.com/uc?id=1mPgB9N5A00yq9J-gGX_UaNWl0wdwdeFx",
