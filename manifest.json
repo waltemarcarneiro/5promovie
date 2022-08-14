@@ -2,7 +2,6 @@
     "theme_color": "#ff4444"
     "background_color": "#eeeeee",
     "display": "standalone",
-    "orientation": "portrait-primary",
     "scope": "/",
     "start_url": ".",
     "name": "5ProMovie Download",
