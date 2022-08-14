@@ -3,7 +3,7 @@
     "background_color": "#eeeeee",
     "display": "standalone",
     "scope": "/",
-    "start_url": "https://5promovie.blogspot.com/?m=1/index.html",
+    "start_url": "https://5promovie.blogspot.com/?m=1",
     "name": "5ProMovie",
     "short_name": "5ProMovie",
     "description": "Filmes | Download",
