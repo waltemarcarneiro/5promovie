@@ -2,7 +2,7 @@
   "background_color": "#ff4444",
   "description": "Filmes | Downloads",
   "dir": "ltr",
-  "display": "standalone",
+  "display": "fullscreen",
   "name": "5ProMovie",
   "orientation": "portrait-primary",
   "scope": "/",
