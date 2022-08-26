@@ -13,10 +13,15 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "https://docs.google.com/uc?id=1uCSRxnYhvxhJBEpDgan_nOBFn6mCKB89",
+      "src": "https://docs.google.com/uc?id=1Q4_UPdMubAkcyntCLspnSk2pOx5tn82o",
       "type": "image/png",
-      "sizes": "700x700"
-      "purpose": "maskable"
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://docs.google.com/uc?id=1Q4_UPdMubAkcyntCLspnSk2pOx5tn82o",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable" // <-- New property value `"maskable"`
     },
     {
       "src": "https://5promovie.blogspot.com/favicon.ico",
