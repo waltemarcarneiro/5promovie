@@ -7,7 +7,7 @@
   "orientation": "portrait-primary",
   "scope": "/",
   "short_name": "5ProMovie",
-  "start_url": "data:blog.homepageUrl",
+  "start_url": "/p/doacao.html",
   "theme_color": "#ff2240",
   "categories": [],
   "screenshots": [],
