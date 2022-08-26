@@ -21,7 +21,7 @@
       "src": "https://docs.google.com/uc?id=1Q4_UPdMubAkcyntCLspnSk2pOx5tn82o",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable" // <-- New property value `"maskable"`
+      "purpose": "maskable"
     },
     {
       "src": "https://5promovie.blogspot.com/favicon.ico",
