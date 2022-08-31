@@ -1,27 +1,26 @@
 {
-  "background_color": "#ff4444",
+  "background_color": "#ff4040",
   "description": "Filmes | Downloads",
   "dir": "ltr",
   "display": "standalone",
   "name": "5ProMovie",
-  "orientation": "portrait-primary",
-  "scope": "https://5promovie.blogspot.com/",
+  "orientation": "any",
+  "scope": "/",
   "short_name": "5ProMovie",
   "start_url": "https://5promovie.blogspot.com/",
-  "theme_color": "#ff4444",
+  "theme_color": "#ff2240",
   "categories": [],
   "screenshots": [],
   "icons": [
     {
-      "src": "https://docs.google.com/uc?id=1ohplKzSBcrh5f4IRh-KLderOwJCNWEJI",
+      "src": "https://docs.google.com/uc?id=1-OZxypDUzD_f1ge2a2XK60YEUQwzgFhH",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "https://docs.google.com/uc?id=1ohplKzSBcrh5f4IRh-KLderOwJCNWEJI",
-      "sizes": "512x512",
+      "src": "https://docs.google.com/uc?id=1mPgB9N5A00yq9J-gGX_UaNWl0wdwdeFx",
       "type": "image/png",
-      "purpose": "maskable"
+      "sizes": "192x192"
     },
     {
       "src": "https://5promovie.blogspot.com/favicon.ico",
