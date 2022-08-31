@@ -8,7 +8,7 @@
   "scope": "https://5promovie.blogspot.com/",
   "short_name": "5ProMovie",
   "start_url": "https://5promovie.blogspot.com/",
-  "theme_color": "#ff2240",
+  "theme_color": "#ff4444,
   "categories": [],
   "screenshots": [],
   "icons": [
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     },
     {
-      "src": "https://docs.google.com/uc?id=1ZLvuVcQj-SsryCyjLA21S7HnDX1_nObD",
+      "src": "https://docs.google.com/uc?id=1ohplKzSBcrh5f4IRh-KLderOwJCNWEJI",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
