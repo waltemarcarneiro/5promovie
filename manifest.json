@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
-  "categories": [],
+  "categories": ["Downloads", "filmes",],
   "screenshots": [],
   "icons": [
     {
