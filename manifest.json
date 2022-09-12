@@ -49,10 +49,10 @@
     }
   ],
   "shortcuts": [
-  
+    {
     "name": "Downloads",
     "url": "/index.html",
     "description": "Filmes | Downloads"
-  },
+    },
   ]
 }
