@@ -24,6 +24,12 @@
       "sizes": "512x512"
     },
     {
+      "src": "https://raw.githubusercontent.com/WaltemarCarneiro/5promovie/main/splash526x256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+    },
+    
+    {
       "src": "https://docs.google.com/uc?id=1Pex3y115KDa29ezB7VFJajU2CFxNle2l",
       "type": "image/png",
       "sizes": "192x192"
