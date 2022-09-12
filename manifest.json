@@ -21,7 +21,7 @@
     {
       "src": "https://docs.google.com/uc?id=1ZN-owbQS8HQaSMeXKj7cVvubU3sg36Gy",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
     },
     {
       "src": "https://raw.githubusercontent.com/WaltemarCarneiro/5promovie/main/splash526x256.png",
@@ -32,7 +32,7 @@
     {
       "src": "https://docs.google.com/uc?id=1Pex3y115KDa29ezB7VFJajU2CFxNle2l",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
     },
     {
       "src": "https://5promovie.blogspot.com/favicon.ico",
@@ -41,7 +41,7 @@
     {
       "src": "https://docs.google.com/uc?id=1CRO5_JuZl4g9C20CvCw1PaAhxZ972HIC",
       "type": "image/png",
-      "sizes": "1200x630"
+      "sizes": "1200x630",
     },
     {
       "src": "/favicon.ico",
