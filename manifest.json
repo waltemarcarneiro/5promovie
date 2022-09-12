@@ -13,6 +13,12 @@
   "screenshots": [],
   "icons": [
     {
+      "src": "https://docs.google.com/uc?id=1VCF3dZK07CF1U5sLMJy9D5_rfA3GxChO",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+    {
       "src": "https://docs.google.com/uc?id=1ZN-owbQS8HQaSMeXKj7cVvubU3sg36Gy",
       "type": "image/png",
       "sizes": "512x512"
