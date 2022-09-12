@@ -13,16 +13,16 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "https://docs.google.com/uc?id=1VCF3dZK07CF1U5sLMJy9D5_rfA3GxChO",
-      "sizes": "196x196",
+      "src": "https://docs.google.com/uc?id=10H073PFJkYWFaW3IEHZQCFc9o5g_Z1G1",
+      "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
-    }
+      "purpose": "maskable"
+    },
     {
       "src": "https://docs.google.com/uc?id=1ZN-owbQS8HQaSMeXKj7cVvubU3sg36Gy",
       "type": "image/png",
       "sizes": "512x512"
-    }
+    },
     {
       "src": "https://docs.google.com/uc?id=1Pex3y115KDa29ezB7VFJajU2CFxNle2l",
       "type": "image/png",
