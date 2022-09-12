@@ -1,14 +1,14 @@
 {
+  "name": "5ProMovie",
+  "short_name": "5ProMovie",
+  "theme_color": "#ff4444",
   "background_color": "#ffffff",
   "description": "Filmes | Downloads",
   "dir": "ltr",
   "display": "standalone",
-  "name": "5ProMovie",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "5ProMovie",
   "start_url": "/",
-  "theme_color": "#ff4444",
   "categories": [],
   "screenshots": [],
   "icons": [
