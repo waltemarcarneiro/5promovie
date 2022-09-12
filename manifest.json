@@ -45,8 +45,14 @@
     },
     {
       "src": "/favicon.ico",
-      "type": "image/x-icon"
+      "type": "image/x-icon",
     }
   ],
-  "shortcuts": []
+  "shortcuts": [
+  
+    "name": "Downloads",
+    "url": "/index.html",
+    "description": "Filmes | Downloads"
+  },
+  ]
 }
