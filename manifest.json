@@ -23,6 +23,17 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+    {
+      "src": "https://docs.google.com/uc?id=1Pex3y115KDa29ezB7VFJajU2CFxNle2l",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+    {
+      "src": "https://docs.google.com/uc?id=1nnrgEpkZYXx3JMrPX_5BzyCfbaGE__cl",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ],
   "shortcuts": [
   {
