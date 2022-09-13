@@ -9,7 +9,7 @@
   "short_name": "5ProMovie",
   "start_url": "/",
   "theme_color": "#ff4444",
-  "categories": ["entertainment"],
+  "categories": ["entertainment",],
   "screenshots": [],
   "icons": [
     {
