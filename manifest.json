@@ -20,9 +20,9 @@
     {
       "src": "https://docs.google.com/uc?id=10H073PFJkYWFaW3IEHZQCFc9o5g_Z1G1",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
       "purpose": "maskable",
-    },
+    }
   ],
   "shortcuts": [
   {
