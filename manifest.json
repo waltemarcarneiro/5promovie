@@ -4,7 +4,7 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "5ProMovie",
-  "orientation": "any",
+  "orientation": "portrait-primary",
   "scope": "/",
   "short_name": "5ProMovie",
   "start_url": "/",
@@ -13,26 +13,9 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/WaltemarCarneiro/5promovie/main/AppIcon192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    }
-    {
-      "src": "https://raw.githubusercontent.com/WaltemarCarneiro/5promovie/main/Maskable_App_Icon192x192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-      "purpose": "maskable"
-    }
-    {
-      "src": "https://raw.githubusercontent.com/WaltemarCarneiro/5promovie/main/Splash_Screen_Icon512x512.png",
+      "src": "https://docs.google.com/uc?id=1ZN-owbQS8HQaSMeXKj7cVvubU3sg36Gy",
       "type": "image/png",
       "sizes": "512x512"
-    }
-    {
-      "src": "https://raw.githubusercontent.com/WaltemarCarneiro/5promovie/main/Maskable_Splash_Screen%20Icon512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
     }
   ],
   "shortcuts": [
