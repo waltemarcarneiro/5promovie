@@ -1,58 +1,22 @@
 {
-  "name": "5ProMovie",
-  "short_name": "5ProMovie",
-  "theme_color": "#ff4444",
   "background_color": "#ff4444",
   "description": "Filmes | Downloads",
   "dir": "ltr",
   "display": "standalone",
-  "orientation": "portrait",
+  "name": "5ProMovie",
+  "orientation": "portrait-primary",
   "scope": "/",
+  "short_name": "5ProMovie",
   "start_url": "/",
-  "categories": ["entertainment"],
+  "theme_color": "#ff4444",
+  "categories": [],
   "screenshots": [],
   "icons": [
     {
-      "src": "https://docs.google.com/uc?id=10H073PFJkYWFaW3IEHZQCFc9o5g_Z1G1",
-      "sizes": "512x512",
-      "type": "image/png"
-      "purpose": "maskable",
-    },
-    {
       "src": "https://docs.google.com/uc?id=1ZN-owbQS8HQaSMeXKj7cVvubU3sg36Gy",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/WaltemarCarneiro/5promovie/main/splash526x256.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    },
-    
-    {
-      "src": "https://docs.google.com/uc?id=1Pex3y115KDa29ezB7VFJajU2CFxNle2l",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://5promovie.blogspot.com/favicon.ico",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "https://docs.google.com/uc?id=1CRO5_JuZl4g9C20CvCw1PaAhxZ972HIC",
-      "sizes": "1200x630",
-      "type": "image/png"
-    },
-    {
-      "src": "/favicon.ico",
-      "type": "image/x-icon"
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
-  "shortcuts": [
-    {
-    "name": "Downloads",
-    "url": "/index.html",
-    "description": "Filmes | Downloads"
-    },
-  ]
+  "shortcuts": []
 }
