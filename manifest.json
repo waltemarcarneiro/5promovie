@@ -18,5 +18,11 @@
       "sizes": "512x512"
     }
   ],
-  "shortcuts": []
+  "shortcuts": [
+  {
+    "name": "Downloads",
+    "url": "/index.html",
+    "description": "Filmes | Downloads"
+    },
+  ]
 }
