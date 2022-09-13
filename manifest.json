@@ -4,25 +4,20 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "5ProMovie",
-  "orientation": "portrait-primary",
+  "orientation": "any",
   "scope": "/",
   "short_name": "5ProMovie",
   "start_url": "/",
   "theme_color": "#ff4444",
-  "categories": ["entertainment"],
+  "categories": [
+    "entertainment"
+  ],
   "screenshots": [],
-  "icons": [
-    {
-      "src": "https://docs.google.com/uc?id=1ZN-owbQS8HQaSMeXKj7cVvubU3sg36Gy",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
   "shortcuts": [
-  {
-    "name": "Romance",
-    "url": "https://5promovie.blogspot.com/search/label/Romance?max-results=12",
-    "description": "Categoria Romance"
+    {
+      "name": "Romance",
+      "url": "https://5promovie.blogspot.com/search/label/Romance?max-results=12",
+      "description": "Categoria Romance"
     }
-  ],
+  ]
 }
