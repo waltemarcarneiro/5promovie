@@ -19,11 +19,11 @@
     }
     {
       "src": "https://raw.githubusercontent.com/WaltemarCarneiro/5promovie/main/maskable512x512.png",
-      "sizes": "512x512"
-      "type": "image/png"
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
-    }
-  ],
+    },
+  ]
   "shortcuts": [
   {
     "name": "Romance",
