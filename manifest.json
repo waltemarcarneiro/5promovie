@@ -1,23 +1,28 @@
-{
+
   "background_color": "#ff4444",
   "description": "Filmes | Downloads",
   "dir": "ltr",
   "display": "standalone",
   "name": "5ProMovie",
-  "orientation": "any",
+  "orientation": "portrait-primary",
   "scope": "/",
   "short_name": "5ProMovie",
   "start_url": "/",
   "theme_color": "#ff4444",
-  "categories": [
-    "entertainment"
-  ],
+  "categories": ["entertainment"],
   "screenshots": [],
-  "shortcuts": [
+  "icons": [
     {
-      "name": "Romance",
-      "url": "https://5promovie.blogspot.com/search/label/Romance?max-results=12",
-      "description": "Categoria Romance"
+      "src": "https://docs.google.com/uc?id=1ZN-owbQS8HQaSMeXKj7cVvubU3sg36Gy",
+      "type": "image/png",
+      "sizes": "512x512"
     }
-  ]
+  ],
+  "shortcuts": [
+  {
+    "name": "Romance",
+    "url": "https://5promovie.blogspot.com/search/label/Romance?max-results=12",
+    "description": "Categoria Romance"
+    }
+  ],
 }
